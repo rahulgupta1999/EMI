@@ -3,7 +3,7 @@
 #### It is EMI use to calculate the monthly EMI amount . 
 
 
-![Home Page](https://github.com/rahulgupta1999/EMI-Calculator/blob/master/outputs/Screenshot_2019-10-11-03-47-08-257_com.miui.home.png =100x20)
+![Home Page](https://github.com/rahulgupta1999/EMI-Calculator/blob/master/outputs/Screenshot_2019-10-11-03-47-08-257_com.miui.home.png) {height="400px" width="200px"}
 
 
 ![Home Page](https://github.com/rahulgupta1999/EMI-Calculator/blob/master/outputs/Screenshot_2019-10-11-03-47-15-226_com.example.emi.png)
