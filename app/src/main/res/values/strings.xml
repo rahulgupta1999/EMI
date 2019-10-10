@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EMI</string>
+
+    <string name="apptitle">EMI Calculator</string>
+    <string name="Label">Enter Loan Amount</string>
+    <string name="Label2">Enter no of instalments</string>
+    <string name="Label3">Enter rate of Interest</string>
+    <string name="switch1">Annualy</string>
+    <string name="editext2">Example:7</string>
+    <string name="editext1">Example:500000</string>
+    <string name="btn1">Calculate</string>
+    <string name="btn2">Reset</string>
+</resources>
