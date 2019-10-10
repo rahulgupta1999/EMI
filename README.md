@@ -1,6 +1,6 @@
 # EMI-Calculator
 ## Android Application
-#### It is EMI use to calculate the monthly EMI amount . 
+#### It is a EMI calculator use to calculate the EMI amount for a particular loan amount,interest(per annum or monthly) and no of instalments . 
 
 
 ![Home Page](https://github.com/rahulgupta1999/EMI-Calculator/blob/master/outputs/Screenshot_2019-10-11-03-47-08-257_com.miui.home.png)
